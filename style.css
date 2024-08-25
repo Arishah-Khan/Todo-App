@@ -30,7 +30,7 @@ body, html {
 
 .greeting {
     position: absolute;
-    top: 20px;
+    top: 10px;
     z-index: 2;
     color: black;
     font-family: "amsterdam";
